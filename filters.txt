@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Filter Pribadi Saya
+! Version: 1
+! Expires: 4 days
+! Homepage: https://github.com/fjrhub/brave-filters
+
+! --- Blokir Domain ---
+||kusonime.com^
+
+! --- Sembunyikan Elemen (CSS) ---
+fajimelist.vercel.app##section:nth-of-type(1) > .flex.justify-between.p-4.items-center
