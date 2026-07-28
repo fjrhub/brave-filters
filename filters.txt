@@ -8,6 +8,7 @@
 
 
 ! --- Sembunyikan Elemen (CSS) ---
+v2.samehadaku.how##[href*="https\:\/\/t\.me\/samehadaku_care"]
 
 ! Blokir semua .gif saat browsing di kusonime.com
 *.gif$image,domain=v2.samehadaku.how
