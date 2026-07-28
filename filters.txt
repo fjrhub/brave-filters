@@ -10,4 +10,4 @@
 ! --- Sembunyikan Elemen (CSS) ---
 
 ! Blokir semua .gif saat browsing di kusonime.com
-*.gif$image,domain=kusonime.com
+*.gif$image,domain=v2.samehadaku.how
