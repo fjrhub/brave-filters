@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: fjrFilters
-! Version: 2
+! Version: 3
 ! Expires: 4 days
 ! Homepage: https://github.com/fjrhub/brave-filters
 
@@ -9,6 +9,9 @@
 
 ! --- Sembunyikan Elemen (CSS) ---
 v2.samehadaku.how##[href*="https\:\/\/t\.me\/samehadaku_care"]
+openguessr.com###gameplay-ad
+openguessr.com##.gameplay-ad-area.bar-menu.svelte-1e81imw
+openguessr.com##.result-ad-area.bar-menu.svelte-1mr706v
 
 ! Blokir semua .gif saat browsing di kusonime.com
 *.gif$image,domain=v2.samehadaku.how
