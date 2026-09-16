@@ -1,3 +1,18 @@
+# fjrFilters
+
+A lightweight custom filter list for Adblock Plus, uBlock Origin, and Brave Shields to block ads and hide distracting elements on specific websites.
+
+## 🛡️ What it blocks
+- **Samehadaku**: Promotional Telegram links and `.gif` images.
+- **OpenGuessr**: In-game and result page ads.
+- **ChatGPT**: Specific UI clutter for a cleaner interface.
+
+## 📥 Installation
+Add this raw URL to your ad blocker's custom filter lists:
+```text
+https://raw.githubusercontent.com/fjrhub/brave-filters/main/filters.txt
+
+
 MIT License
 
 Copyright (c) 2026 fjrhub
